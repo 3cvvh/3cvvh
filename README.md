@@ -18,7 +18,7 @@
 
 ### ⚒ Languages, Frameworks & Tools
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php&perline=8)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,laravel,php,mysql,vscode&perline=8" alt="Skills">
 </div>
 
 ---
@@ -47,4 +47,4 @@
 
 <p align="center"><b>Check out my repositories and don't forget to give a ⭐!</b></p>
 
-<p align="center">:star: From [3cvvh](https://github.com/3cvvh)</p>
+<p align="center">:star: From <a href="https://github.com/3cvvh">axyl</a> 
