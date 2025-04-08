@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/asset/Lets Go Yes GIF by ATLUS West.gif" width="600px" title="Intro Card" alt="Intro Card">
+  <img src="/asset/Lets Go Yes GIF by ATLUS West.gif" width="700px" title="Intro Card" alt="Intro Card">
 </p>
 <h1 align="center">Hi there 👋, I'm axyl</h1>
 
