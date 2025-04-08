@@ -38,7 +38,9 @@
 
 
 ### You can find in me in the web 🌍
-<img align="left" alt="axyl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
+<a href="https://www.instagram.com/axylfff/" target="_blank">
+  <img align="left" alt="axyl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:#E4405F;" />
+</a> [Instagram](https://www.instagram.com/axylfff/)
 
 <br/>
 
