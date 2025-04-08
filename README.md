@@ -38,12 +38,12 @@
 
 
 ### You can find in me in the web 🌍
-<p align="center">
+### You can find in me in the web 🌍
+<div align="center"> 
   <a href="https://www.instagram.com/axylfff/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="axylfff" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-</p>
-
+</div>
 <br/>
 
 
