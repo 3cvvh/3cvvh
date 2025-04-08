@@ -38,16 +38,12 @@
 
 
 ### You can find in me in the web 🌍
-### You can find in me in the web 🌍
 <div align="center"> 
   <a href="https://www.instagram.com/axylfff/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
 <br/>
-
-
-
 ---
 
 Let's connect 👨‍💻 and destroy the future together.💥✌
