@@ -38,9 +38,11 @@
 
 
 ### You can find in me in the web 🌍
-<a href="https://www.instagram.com/axylfff/" target="_blank">
-  <img align="left" alt="axyl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:#E4405F;" />
-</a> [Instagram](https://www.instagram.com/axylfff/)
+<p align="center">
+  <a href="https://www.instagram.com/axylfff/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="axylfff" height="30" width="40" />
+  </a>
+</p>
 
 <br/>
 
