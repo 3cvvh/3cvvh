@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/asset/819074-final.gif" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="/asset/819074-final.gif" width="600px" title="Intro Card" alt="Intro Card">
 </p>
 <p align="center" weight="bold"> Hi there👋, I'm axyl</p>
 
