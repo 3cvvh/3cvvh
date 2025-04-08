@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
-<br/>
+
 ---
 
 Let's connect 👨‍💻 and destroy the future together.💥✌
@@ -51,5 +51,3 @@ Let's connect 👨‍💻 and destroy the future together.💥✌
 **Check the Repositories and don't forget to give a bomb💥.** 👇
 
 :star: From [3cvvh](https://github.com/3cvvh)
-
-[instagram]: https://www.instagram.com/axylfff/
