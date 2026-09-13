@@ -36,7 +36,7 @@ I'm **axyl**, a student at **Telkom University** working quietly behind the scre
 
 ---
 
-### 🌌 Let's Connect
+### 🌌 Let's Connects
 <div align="center">
   <p>If you need to find me, look here:</p>
   <a href="https://www.instagram.com/axylfff/" target="_blank">
