@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8c/2b/97/8c2b97ea3a31c19b222384a2f26ea138.gif" width="100%" style="border-radius: 10px;" alt="Dark City Rain">
+  <img src="https://i.pinimg.com/originals/26/db/d3/26dbd306b3bc5bc1cb1f391ea2b8bc5b.gif" width="100%" style="border-radius: 10px; margin-bottom: 15px;" alt="Dark City Vibe">
 </div>
 
-<h1 align="center">Welcome to my workspace. 🌃</h1>
-<p align="center"><i>"Building logic in the quiet of the night."</i></p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7092BE&center=true&vCenter=true&width=500&lines=Welcome+to+my+workspace.+%F0%9F%8C%83;Student+at+Telkom+University.;Building+logic+in+the+dark.;Aspiring+Fullstack+Developer." alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ### 👤 Who am I?
-I'm **axyl**, a student at SMKN 7 Baleendah working quietly behind the screen. I prefer the calm of the night to write code, solve problems, and build seamless applications.
+I'm **axyl**, a student at **Telkom University** working quietly behind the screen. I prefer the calm of the night to write code, solve problems, and build seamless applications.
 
 - 🌑 **Currently crafting:** A personal **Project Portfolio Web**
 - 💡 **Deep diving into:** Laravel, React, and Fullstack Architecture
@@ -27,8 +30,8 @@ I'm **axyl**, a student at SMKN 7 Baleendah working quietly behind the screen. I
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3cvvh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3cvvh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=3cvvh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=7092BE" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3cvvh&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=7092BE&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="48%">
 </div>
 
 ---
@@ -37,7 +40,7 @@ I'm **axyl**, a student at SMKN 7 Baleendah working quietly behind the screen. I
 <div align="center">
   <p>If you need to find me, look here:</p>
   <a href="https://www.instagram.com/axylfff/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-18191A?style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram">
   </a>
 </div>
 
